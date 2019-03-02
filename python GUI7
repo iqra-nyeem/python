@@ -1,0 +1,16 @@
+from Tkinter import *
+
+root = Tk()
+
+root.geometry('300x150+120+150')
+
+root.mainloop()
+
+
+from Tkinter import *
+
+root = Tk()
+
+root.geometry('300x150+120+150')
+
+root.mainloop()
